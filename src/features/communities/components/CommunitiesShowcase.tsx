@@ -1,7 +1,7 @@
 import { useEffect, useReducer } from "react";
 import SwiperCard from "./SwiperCard";
-import type { CommunityData, State } from "../../../components/type";
-import { LoadingSpinner } from "../../../components/common";
+import type { CommunityData, State } from "../../../Components/type";
+import { LoadingSpinner } from "../../../Components/common";
 import { CommunitiesGrid } from "./CommunitiesGrid";
 // Constants
 const API_ENDPOINT = "/api";

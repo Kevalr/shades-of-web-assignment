@@ -1,5 +1,5 @@
-import { CommonCard } from "../../../components/common";
-import type { CommunityData } from "../../../components/type";
+import { CommonCard } from "../../../Components/common";
+import type { CommunityData } from "../../../Components/type";
 
 interface CommunitiesGridProps {
   communities: CommunityData[];
