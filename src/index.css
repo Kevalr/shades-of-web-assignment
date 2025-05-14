@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.heading-font {
+    font-family: 'Martel Sans', sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
